@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We've released the code of <a href="https://github.com/SalesforceAIResearch/ThinK">ThinK</a>
+One paper accepted to ICLR2025: <a href="https://github.com/SalesforceAIResearch/ThinK">ThinK</a>
