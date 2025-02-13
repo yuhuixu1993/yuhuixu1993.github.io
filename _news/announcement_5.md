@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to ICLR2025: <a href="https://github.com/SalesforceAIResearch/ThinK">ThinK</a>
+One paper accepted to ICLR2025 Spotlight
