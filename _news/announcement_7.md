@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to ACL 2025 (Main Conference)
+One paper accepted to ACL 2025 (Main Conference, Oral)
