@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Scientist, Salesforce AI Research.
+subtitle: Research Scientist, Google Research.
 
 profile:
   align: right
@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a research scientist with Salesforce AI Research. I was part of the MIN LAB, advised by Prof. Hongkai Xiong and Prof. Weiyao Lin. I was a visiting student of <a href="https://ccvl.jhu.edu/">CCVL LAB</a>, advised by Prof. <a href="http://www.cs.jhu.edu/~ayuille/">Alan Yuille</a>. Prior to SJTU, I obtained my B.S. degree in <a href="http://wjx.seu.edu.cn/wjxen/">Chien-Shiung Wu College</a> from Southeast University in 2016.
+I am a research scientist at Google Research, focusing on efficient, large-scale foundation models. Previously, I was a research scientist at Salesforce AI Research. I was a member of the MIN Lab, advised by Professors Hongkai Xiong and Weiyao Lin. I was also a visiting student at the <a href="https://ccvl.jhu.edu/">CCVL Lab</a>, advised by Prof. <a href="http://www.cs.jhu.edu/~ayuille/">Alan Yuille</a>.
